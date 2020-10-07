@@ -16,4 +16,5 @@ The code is divided in two parts broadly:- 1) design   2) Logic Implementation
 #### Design:- 
 I have tried to keep design as realistic and simple as it can be. You can go through code and understand it line by line easily.
 
-#### Logic Implementaiton:- There are values between 1-10, for 1 to 9 divide by 10 gives 0(quotient) so circle of player will move from left to right if quotient is even, exception of 10 considered. If quotient(is odd) circle will move from right to left.
+#### Logic Implementaiton:- 
+There are values between 1-10, for 1 to 9 divide by 10 gives 0(quotient) so circle of player will move from left to right if quotient is even, exception of 10 considered. If quotient(is odd) circle will move from right to left.
