@@ -5,6 +5,8 @@ This is a Snakes and ladder game for 2 players.
 
 ### dos and graphs graphics libraries used in this mini project are supported in turbo C compilers, modern GCC compilers do not use that. for running this game in your environment, please consider using turbo C.
 
+#### Download Link for Turbo C++ with Graphics library present 
+https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/
 
 This is a mini project to get started with developement. 
 
